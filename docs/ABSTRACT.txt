@@ -1,0 +1,1 @@
+This project implements a reproducible batch pipeline for NYC Yellow Taxi trip records (January–March 2024). Python downloads Parquet files, PySpark validates, cleans and aggregates trips by hour, and PostgreSQL stores the results. Docker Compose and Windows Task Scheduler provide portability and automation. Quality reports, tests and security measures support reliability.

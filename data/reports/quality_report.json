@@ -1,0 +1,17 @@
+{
+  "rows_in": 9554778,
+  "rows_rejected": 376484,
+  "rows_out": 9178294,
+  "rejected_by_reason": {
+    "invalid_distance": 140924,
+    "invalid_fare": 120581,
+    "implausible_duration": 112157,
+    "dropoff_not_after_pickup": 2801,
+    "pickup_outside_period": 21
+  },
+  "hourly_rows": 2183,
+  "period": {
+    "start": "2024-01-01",
+    "end_exclusive": "2024-04-01"
+  }
+}

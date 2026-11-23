@@ -1,0 +1,7 @@
+pyspark==3.5.1
+pandas>=2.0
+pyarrow>=14.0
+requests>=2.31
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+pytest>=8.0
